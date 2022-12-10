@@ -4,7 +4,7 @@
   "description": "ServiceNow Integration ",
   "main": "app.js",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "mysql": "^2.17.1",
     "servicenow-rest-api": "^1.0.4",
     "sql": "^0.78.0"
